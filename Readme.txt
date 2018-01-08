@@ -14,3 +14,5 @@
 （2）model2、model3、result_merge运行环境为python 3.5.3，xgboost 0.6，lightgbm 0.1
 
 （3）model4、model5、model10、model11运行环境为R语言3.3.2，data.table 1.10.4，xgboost 0.6-4, lubridate 1.5.6, magrittr 1.5, h2o 3.10.3.6
+
+携程
